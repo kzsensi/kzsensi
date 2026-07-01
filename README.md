@@ -101,18 +101,33 @@ developer:
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kzsensi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FAD000&text_color=FFFFFF&include_all_commits=true" alt="GitHub stats" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=kzsensi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FAD000&text_color=FFFFFF&include_all_commits=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      width="48%" 
+      src="https://github-readme-stats.vercel.app/api?username=kzsensi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"
+      alt="Krishna's GitHub stats"
+    />
+  </picture>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=kzsensi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FAD000&currStreakLabel=00F5FF" alt="GitHub streak" />
+  <img 
+    width="48%" 
+    src="https://streak-stats.demolab.com?user=kzsensi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FAD000&currStreakLabel=00F5FF"
+    alt="Krishna's GitHub streak"
+  />
 
-  <br/>
+  <br/><br/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzsensi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top languages" />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzsensi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&cache_seconds=86400"
+    alt="Krishna's top languages"
+  />
 
 </div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
