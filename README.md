@@ -1,18 +1,160 @@
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=285&color=0:0D1117,35:32127A,70:7F00FF,100:FAD000&text=Krishna%20Ruhela&fontAlign=50&fontAlignY=38&fontSize=72&fontColor=FFFFFF&desc=Full-stack%20builder%20%E2%80%A2%20API%20integrator%20%E2%80%A2%20UI%20craftsman&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" />""Typing SVG" (https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=750&color=FAD000&center=true&vCenter=true&width=900&lines=I+build+interfaces+that+feel+alive.;I+connect+messy+APIs+to+clean+systems.;Frontend+polish+%2B+backend+logic+%2B+shipping+mindset.;Welcome+to+my+developer+universe.)" (https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-ruhela-46a73a338) 
+<br/>""Profile Views" (https://komarev.com/ghpvc/?username=kzsensi&style=for-the-badge&color=FAD000&label=PROFILE+VISITORS)" (https://github.com/kzsensi)
+""GitHub followers" (https://img.shields.io/github/followers/kzsensi?style=for-the-badge&logo=github&label=Followers&labelColor=101010&color=7F00FF)" (https://github.com/kzsensi?tab=followers)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Krishna%20Ruhela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://linkedin.com/in/krishna-ruhela-46a73a338)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kzsensi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kzsensi&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kzsensi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+<img align="right" width="330" alt="Coding animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />"kzsensi@github:~$ whoami"
+
+Name        : Krishna Ruhela
+Role        : Full-stack Developer
+Mode        : Build → Break → Debug → Polish → Ship
+Specialty   : Modern web apps, API integrations, clean UI systems
+Mindset     : Make it useful. Make it fast. Make it beautiful.
+
+I like turning confusing workflows into software that feels simple.
+I work across the stack — from UI pixels to backend routes, from database logic to production deploys.
+
+«Somewhere between "console.log("why")" and "git push", I try to make things better.»
+
+<br clear="right"/>---
+
+🧭 Mission Control
+
+<table>
+<tr>
+<td width="50%">🚀 What I Build
+
+- Full-stack web applications
+- Dashboards and admin panels
+- API integrations and automation flows
+- Clean landing pages and product UIs
+- Tools that reduce manual work
+
+</td>
+<td width="50%">🧠 How I Think
+
+- First make it work
+- Then make it reliable
+- Then make it beautiful
+- Then make it impossible to ignore
+
+</td>
+</tr>
+</table>---
+
+🛠️ Tech Constellation
+
+<div align="center">Languages • Frontend • Backend • Cloud • Tools
+
+""My Skills" (https://skillicons.dev/icons?i=c,html,css,js,ts,py,nodejs,nestjs,nextjs,react,tailwind,firebase,supabase,mysql,docker,vercel,netlify,gcp,figma,postman,github,arduino,notion&perline=8)" (https://skillicons.dev)
+
+</div><br/><details open>
+<summary><b>🧩 Stack Breakdown</b></summary><br/>Zone| Tools I Use
+Frontend| React, Next.js, TypeScript, JavaScript, HTML, Tailwind CSS, Radix UI
+Backend| Node.js, NestJS, Python
+Databases / BaaS| MySQL, Firebase, Supabase
+Deploy / Cloud| Vercel, Netlify, Google Cloud, Docker
+Design| Figma, Canva, Framer, Lightroom
+Workflow| GitHub, Postman, Notion, Markdown
+
+</details>---
+
+🧪 Current Developer Build
+
+developer:
+  name: Krishna Ruhela
+  username: kzsensi
+  focus:
+    - Building full-stack products
+    - Integrating real-world APIs
+    - Designing clean user experiences
+    - Shipping faster without making things messy
+  likes:
+    - Dark UI
+    - Sharp typography
+    - Smooth interactions
+    - Clear architecture
+  status: "Always compiling something new"
 
 ---
-[![](https://komarev.com/ghpvc/?username=kzsensi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🏆 Achievement Room
+
+<div align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=kzsensi&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" /></div>---
+
+📊 GitHub Radar
+
+<div align="center"><img height="175" src="https://github-readme-stats.vercel.app/api?username=kzsensi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FAD000&icon_color=FAD000&text_color=FFFFFF&include_all_commits=true" /><img height="175" src="https://streak-stats.demolab.com?user=kzsensi&theme=tokyonight&hide_border=true&background=0D1117&ring=FAD000&fire=FAD000&currStreakLabel=FAD000" /><br/><img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzsensi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FAD000&text_color=FFFFFF" /></div>---
+
+📡 Contribution Signal
+
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kzsensi&theme=react-dark&hide_border=true&area=true&custom_title=Krishna%27s%20Contribution%20Radar" /></div>---
+
+🧬 My Build Philosophy
+
+<div align="center"><table>
+<tr>
+<td align="center" width="33%">
+<h3>⚡ Fast</h3>
+<p>Performance is not decoration. It is user respect.</p>
+</td>
+<td align="center" width="33%">
+<h3>🎨 Clean</h3>
+<p>Good UI should feel obvious before it feels impressive.</p>
+</td>
+<td align="center" width="33%">
+<h3>🧠 Useful</h3>
+<p>The best code quietly removes someone’s headache.</p>
+</td>
+</tr>
+</table></div>---
+
+🪐 Developer Orbit
+
+flowchart LR
+    A[Idea] --> B[Prototype]
+    B --> C[Break Things]
+    C --> D[Debug]
+    D --> E[Polish UI]
+    E --> F[Deploy]
+    F --> G[Learn]
+    G --> A
+
+---
+
+🎮 Side Quests
+
+- 🧰 Building tools that make boring work disappear
+- 🎯 Improving backend + API architecture
+- 🎨 Making interfaces feel premium
+- 🚢 Learning by shipping real projects
+- 🧪 Experimenting with automation, cloud, and developer workflows
+
+---
+
+💬 Connect With Me
+
+<div align="center"><a href="https://linkedin.com/in/krishna-ruhela-46a73a338">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></div>---
+
+<div align="center">"Thanks for visiting. Now go build something dangerously good."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FAD000,50:7F00FF,100:0D1117" /></div><!--
+🐍 OPTIONAL CONTRIBUTION SNAKE
+
+After setting up the snake GitHub Action, uncomment this:
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kzsensi/kzsensi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kzsensi/kzsensi/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/kzsensi/kzsensi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+-->
