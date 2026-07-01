@@ -1,0 +1,92 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="35%" stop-color="#15102E"/>
+      <stop offset="70%" stop-color="#32127A"/>
+      <stop offset="100%" stop-color="#FAD000"/>
+    </linearGradient>
+
+    <linearGradient id="textGradient" x1="220" y1="130" x2="980" y2="240">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="35%" stop-color="#00F5FF"/>
+      <stop offset="70%" stop-color="#B967FF"/>
+      <stop offset="100%" stop-color="#FAD000"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+
+  <g opacity="0.35">
+    <circle cx="135" cy="78" r="3" fill="#FFFFFF"/>
+    <circle cx="212" cy="261" r="2.4" fill="#00F5FF"/>
+    <circle cx="982" cy="76" r="2.8" fill="#FFFFFF"/>
+    <circle cx="1039" cy="242" r="3.2" fill="#FAD000"/>
+    <circle cx="690" cy="65" r="2" fill="#B967FF"/>
+    <circle cx="520" cy="294" r="2.6" fill="#FFFFFF"/>
+    <circle cx="1128" cy="151" r="2" fill="#00F5FF"/>
+    <circle cx="70" cy="180" r="2" fill="#FAD000"/>
+  </g>
+
+  <g opacity="0.18">
+    <path d="M0 300 C190 210, 360 390, 560 285 C770 175, 940 305, 1200 165" stroke="#00F5FF" stroke-width="3"/>
+    <path d="M0 88 C160 145, 330 10, 520 94 C740 190, 915 40, 1200 96" stroke="#FAD000" stroke-width="3"/>
+  </g>
+
+  <circle cx="600" cy="180" r="150" fill="url(#pulse)" opacity="0.20">
+    <animate attributeName="r" values="120;170;120" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.26;0.12" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <g filter="url(#softShadow)">
+    <text x="600" y="178"
+      text-anchor="middle"
+      font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
+      font-size="82"
+      letter-spacing="3"
+      stroke="#050816"
+      stroke-width="10"
+      paint-order="stroke"
+      fill="url(#textGradient)"
+      filter="url(#glow)">KRISHNA RUHELA</text>
+
+    <text x="600" y="226"
+      text-anchor="middle"
+      font-family="'Courier New', monospace"
+      font-size="25"
+      letter-spacing="6"
+      fill="#F4F7FB">FULL-STACK BUILDER • API INTEGRATOR • UI CRAFTSMAN</text>
+  </g>
+
+  <g opacity="0.78">
+    <rect x="306" y="252" width="588" height="2.5" rx="1.2" fill="#FFFFFF" opacity="0.30"/>
+    <rect x="306" y="252" width="150" height="2.5" rx="1.2" fill="#00F5FF">
+      <animate attributeName="x" values="306;744;306" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="600" y="300"
+    text-anchor="middle"
+    font-family="'Courier New', monospace"
+    font-size="18"
+    letter-spacing="2"
+    fill="#FFFFFF"
+    opacity="0.78">build → break → debug → polish → ship</text>
+</svg>
