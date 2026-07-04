@@ -2,7 +2,7 @@
 
   <img src="./assets/name.svg" alt="Krishna Ruhela" width="100%" />
 
-  <br/>
+  <br/> 
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-stack+Developer;API+Integrator;UI+Craftsman;I+turn+complex+systems+into+clean+products" alt="Typing SVG" />
 
