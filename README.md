@@ -97,18 +97,6 @@ developer:
 
 ---
 
-## 📊 GitHub Radar
-
-<div align="center">
-
-  <img 
-    src="https://streak-stats.demolab.com?user=kzsensi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FAD000&currStreakLabel=00F5FF"
-    alt="Krishna's GitHub streak"
-    width="70%"
-  />
-
-</div>
-
 
 
 ## 🐍 Contribution Snake
